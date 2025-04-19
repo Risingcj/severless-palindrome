@@ -5,7 +5,6 @@ st.markdown("""
 # 🔁 Palindrome Checker
 
 This simple app checks if the word you enter is a **palindrome** — a word, number or phrase that reads the same backward as forward.
-It sends your input to a serverless AWS Lambda function via an API Gateway, then displays the result.
 """)
 
 # Replace this with your actual API Gateway URL
